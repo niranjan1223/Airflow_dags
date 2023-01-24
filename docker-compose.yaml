@@ -221,5 +221,5 @@ services:
   # or by explicitly targeted on the command line e.g. docker-compose up flower.
   # See: https://docs.docker.com/compose/profiles/
 
-volumes:
+volumes:  
   postgres-db-volume:
